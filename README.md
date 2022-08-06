@@ -24,7 +24,7 @@ Currently pursuing my Bachelor's degree majoring in Computer Science with specia
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
+<p align="right">
 
  <a href="https://twitter.com/ImSureshdub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"     alt="ImSureshDub" height="30" width="40" /></a> 
 <a href="https://www.linkedin.com/in/sureshdub/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sureshdub" height="30" width="40" /></a>
