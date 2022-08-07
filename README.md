@@ -11,10 +11,10 @@ I am Suresh Dub 🙋🏻‍♂️,React JS and Blockchain Enthusiast.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ImSureshDub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ImSureshDub" height="30" width="40" /></a> 
-<a href="https://linkedin.com/in/SureshDub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="SureshDub" height="30" width="40" /></a>
-<a href="https://instagram.com/Isureshdub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="isureshdub" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC0PdBWwpCD-m_lxdezCHMPA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Suresh Dub" height="30" width="40" /></a>
+<a href="https://twitter.com/ImSureshDub" target="blank"><img align="center" src="https://github.com/Suresh-Dub/suresh-dub/blob/main/twitter-logo-vector-png-clipart-1.png" alt="ImSureshDub" height="30" width="30" /></a> 
+<a href="https://linkedin.com/in/SureshDub" target="blank"><img align="center" src="https://github.com/Suresh-Dub/suresh-dub/blob/main/174857.png" alt="SureshDub" height="30" width="30" /></a>
+<a href="https://instagram.com/Isureshdub" target="blank"><img align="center" src="https://github.com/Suresh-Dub/suresh-dub/blob/main/instagram.png" alt="isureshdub" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UC0PdBWwpCD-m_lxdezCHMPA" target="blank"><img align="center" src="https://github.com/Suresh-Dub/suresh-dub/blob/main/youtube.png" alt="Suresh Dub" height="35" width="35" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
