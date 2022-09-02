@@ -26,7 +26,7 @@ I am Suresh Dub 🙋🏻‍♂️,React JS and Web 3.0 Enthusiast.
 
 | ![Suresh GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Suresh-Dub&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-Dub) |
 | --- | --- |
-| ![Suresh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suresh-Dub) | If you like what I do, support me by buying me a [pizza](https://www.buymeacoffee.com/sureshdub) and let's do more useful content! <img src="https://i.imgur.com/T31KN5a.png" alt="Look next line." height="24" /><br /><br /> <a href="https://www.buymeacoffee.com/sureshdub" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Pizza" width="120" /></a> |
+| ![Suresh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suresh-Dub) | If you like what I do, support me by buying me a [Coffee](https://www.buymeacoffee.com/sureshdub) and let's do more useful content! <img src="https://i.imgur.com/T31KN5a.png" alt="Look next line." height="24" /><br /><br /> <a href="https://www.buymeacoffee.com/sureshdub" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Pizza" width="120" /></a> |
 
 ![Dino](https://github.com/Suresh-Dub/suresh-dub/blob/main/dino.gif)
 
