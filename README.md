@@ -11,7 +11,7 @@ I am Suresh Dub 🙋🏻‍♂️, Web 3.0 Enthusiast.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ImSureshDub" target="blank"><img align="center" src="https://github.com/Suresh-Dub/suresh-dub/blob/main/twitter-logo-vector-png-clipart-1.png" alt="ImSureshDub" height="30" width="30" /></a> 
+<a href="https://twitter.com/ISureshDub" target="blank"><img align="center" src="https://github.com/Suresh-Dub/suresh-dub/blob/main/twitter-logo-vector-png-clipart-1.png" alt="ISureshDub" height="30" width="30" /></a> 
 <a href="https://linkedin.com/in/SureshDub" target="blank"><img align="center" src="https://github.com/Suresh-Dub/suresh-dub/blob/main/174857.png" alt="SureshDub" height="30" width="30" /></a>
 
 
