@@ -26,7 +26,6 @@
 | --- | --- |
 | ![Suresh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suresh-Dub) | If you like what I do, support me by buying me a [Coffee](https://www.buymeacoffee.com/sureshdub) and let's do more useful content! <img src="https://i.imgur.com/T31KN5a.png" alt="Look next line." height="24" /><br /><br /> <a href="https://www.buymeacoffee.com/sureshdub" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Pizza" width="120" /></a> |
 
-![Dino](https://github.com/Suresh-Dub/suresh-dub/blob/main/dino.gif)
 
 
 ![Trophies 🏆](https://github-profile-trophy.vercel.app/?username=Suresh-Dub)
