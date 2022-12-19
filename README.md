@@ -1,5 +1,5 @@
 <h1 align="center"> Hello there! I am Suresh 🧑🏻‍💻 </h1>
-<p align="left">
+<p align="center">
   <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suresh-Dub&&theme=tokyonight"/>
 </p>
 
