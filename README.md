@@ -5,5 +5,6 @@
 
 | ![Suresh GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Suresh-Dub&show_icons=true&&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-Dub&&theme=tokyonight) |
 | --- | --- |
-| ![Suresh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suresh-Dub&&theme=tokyonight) | 
-
+<p align="center">
+  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suresh-Dub&&theme=tokyonight)"/>
+</p>
