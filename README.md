@@ -1,4 +1,4 @@
-<h1 align="center"> Hello there! I am Suresh 🧑🏻‍💻 </h1>
+<h1 align="center"> Hey there! I am Suresh 🧑🏻‍💻 </h1>
 
 <img align="right" alt="codingGuy" width="660" src="https://github-readme-stats.vercel.app/api?username=Suresh-Dub&show_icons=true&&theme=tokyonight"> | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-Dub&&theme=tokyonight) |
 | --- | --- |
