@@ -1,36 +1,7 @@
-![MastHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
+<h1 align="center"> Hey there! I am Suresh 🧑🏻‍💻 </h1>
 
-# Hello there! 👋🏻 I am Suresh Dub! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
-I am Suresh Dub 🙋🏻‍♂️, Blockchain Enthusiast.
-
-
-
-[![Vardan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=suresh-dub&&theme=xcode)](https://github.com/suresh-dub)
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/suresh-dub" target="blank"><img align="center" src="https://github.com/Suresh-Dub/suresh-dub/blob/main/twitter-logo-vector-png-clipart-1.png" alt="suresh-dub" height="30" width="30" /></a> 
-<a href="https://www.linkedin.com/in/vardansatti/" target="blank"><img align="center" src="https://github.com/Suresh-Dub/suresh-dub/blob/main/174857.png" alt="Vardan Satti" height="30" width="30" /></a>
-<a href="https://instagram.com/heresureshh" target="blank"><img align="center" src="https://github.com/Suresh-Dub/suresh-dub/blob/main/instagram.png" alt="Suresh" height="30" width="30" /></a
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-
-
-
-
-| ![Suresh GitHub Statistics](https://github-readme-stats.vercel.app/api?username=suresh-dub&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suresh-dub) |
+<img align="right" alt="codingGuy" width="660" src="https://github-readme-stats.vercel.app/api?username=suresh-dub&show_icons=true&&theme=tokyonight"> | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suresh-dub&&theme=tokyonight) |
 | --- | --- |
-| ![Suresh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suresh-dub) | If you like what I do, support me by buying me a [pizza](https://www.buymeacoffee.com/VardanSatti) and let's do more useful content! <img src="https://i.imgur.com/T31KN5a.png" alt="Look next line." height="24" /><br /><br /> <a href="https://www.buymeacoffee.com/VardanSatti" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Pizza" width="120" /></a> |
 
-![Dino](https://github.com/Suresh-Dub/Suresh-Dub/blob/main/dino.gif)
-
-
-
-Watch my contribution graph being eaten by a Snake! 🐍
-
-![Watch my contribution graph being eaten by a Snake!](https://github.com/Suresh-Dub/Suresh-Dub/blob/main/snake.svg)
+| ![Suresh GitHub Statistics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suresh-dub&&theme=tokyonight) | <img align="right" alt="codingGuy" width="260" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"> |
+| --- | --- |
