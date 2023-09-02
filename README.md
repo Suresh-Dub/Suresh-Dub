@@ -1,7 +1,7 @@
-<h1 align="center">Hey 👋, I'm Ayush Thakur</h1>
+<h1 align="center">Hey 👋, I'm Suresh Dub</h1>
 <h3 align="center">A passionate frontend/backend developer from India</h3>
 
-  <img src="https://komarev.com/ghpvc/?username=ayushhhthakur&label=Profile%20views&color=0e75b6&style=flat&exclude_self=true" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=suresh-dub&label=Profile%20views&color=0e75b6&style=flat&exclude_self=true" alt="Profile views" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suresh-dub&theme=onedark" alt="suresh-dub" /></a> </p>
 
