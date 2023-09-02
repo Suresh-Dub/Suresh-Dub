@@ -1,6 +1,6 @@
 ![MastHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
 
-# Hello there! 👋🏻 I am Vardan Satti! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+# Hello there! 👋🏻 I am Suresh Dub! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 I am Suresh Dub 🙋🏻‍♂️, Blockchain Enthusiast.
 
 
@@ -25,13 +25,12 @@ I am Suresh Dub 🙋🏻‍♂️, Blockchain Enthusiast.
 
 | ![Suresh GitHub Statistics](https://github-readme-stats.vercel.app/api?username=suresh-dub&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suresh-dub) |
 | --- | --- |
-| ![Suresh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vardan-Satti) | If you like what I do, support me by buying me a [pizza](https://www.buymeacoffee.com/VardanSatti) and let's do more useful content! <img src="https://i.imgur.com/T31KN5a.png" alt="Look next line." height="24" /><br /><br /> <a href="https://www.buymeacoffee.com/VardanSatti" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Pizza" width="120" /></a> |
+| ![Suresh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suresh-dub) | If you like what I do, support me by buying me a [pizza](https://www.buymeacoffee.com/VardanSatti) and let's do more useful content! <img src="https://i.imgur.com/T31KN5a.png" alt="Look next line." height="24" /><br /><br /> <a href="https://www.buymeacoffee.com/VardanSatti" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Pizza" width="120" /></a> |
 
-![Dino](https://github.com/suresh-dub/suresh-dub/blob/main/dino.gif)
+![Dino](https://github.com/Suresh-Dub/Suresh-Dub/blob/main/dino.gif)
 
 
-![Trophies 🏆](https://github-profile-trophy.vercel.app/?username=suresh-dub)
 
 Watch my contribution graph being eaten by a Snake! 🐍
 
-![Watch my contribution graph being eaten by a Snake!](https://github.com/suresh-dub/suresh-dub/blob/main/snake.svg)
+![Watch my contribution graph being eaten by a Snake!](https://github.com/Suresh-Dub/Suresh-Dub/blob/main/snake.svg)
