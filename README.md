@@ -13,6 +13,6 @@
 ) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 <h2 align="center">👨‍💻 Projects</h2>
 <p align="center">
-  Check out my latest projects on <a href="https://github.com/suresh-dub?tab=repositories" target="_blank">GitHub</a>.<br>
+  Check out my latest projects on <a href="https://github.com/Suresh-Dub/IPC-Through-Shared-Memory" target="_blank">GitHub</a>.<br>
   Connect with me on <a href="https://www.linkedin.com/in/sureshdub/" target="_blank">LinkedIn</a>.
 </p>
